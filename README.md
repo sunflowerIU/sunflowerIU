@@ -32,8 +32,6 @@ A local Kubernetes deployment practice project with deployment files, services, 
 ## Currently Learning
 
 - Spring Boot
-- TanStack Query, Router, and Forms
-- Production deployment with Docker, Kubernetes, and AWS
 - langchain js, langraph (ai integration)
 
 ## Contact
