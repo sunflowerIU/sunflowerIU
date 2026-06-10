@@ -16,6 +16,12 @@ A full-stack restaurant ordering application with authentication, authorization,
 
 Tech used: Next.js, TypeScript, Node.js, Express, MongoDB, JWT, OAuth, eSewa
 
+### [Node.js Authentication API](https://github.com/sunflowerIU/node-js-authentication)
+
+A secure backend authentication API built with Node.js, Express, TypeScript, MongoDB, and JWT. It includes user registration, login, refresh tokens, protected routes, Google OAuth, email verification, password reset, admin role protection, and 2FA/TOTP.
+
+**Tech used:** Node.js, Express.js, TypeScript, MongoDB, Mongoose, JWT, Cookies, Google OAuth, Nodemailer, Zod, 2FA/TOTP
+
 ### Docker + Nginx Practice
 A practice project showing reverse proxy, multiple services, and Docker Compose networking.
 
