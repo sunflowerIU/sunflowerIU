@@ -38,6 +38,14 @@ A full-stack real estate web application built with Node.js, Express, MongoDB, M
 **Tech used:** Node.js, Express.js, MongoDB, Mongoose, Pug, JWT, Cookies, Multer, Sharp, Nodemailer
 
 
+### [NDB E-commerce Next.js App](https://github.com/sunflowerIU/ndb-nextjs)
+
+A modern e-commerce application built with Next.js, React, Supabase, NextAuth, Zustand, and Tailwind CSS. It includes product listing, cart management, protected profile/checkout pages, checkout session creation, and eSewa payment success flow.
+
+**Tech used:** Next.js, React, JavaScript, Supabase, NextAuth, Zustand, Tailwind CSS, eSewa, Vercel
+
+
+
 ## Currently Learning
 
 - Spring Boot
