@@ -11,7 +11,8 @@ I'm a full-stack developer learning and building with Next.js, TypeScript, Node.
 
 ## Featured Projects
 
-### Nepali Kitchen / Restaurant App
+### [Nepali Kitchen / Restaurant App-Backend](https://github.com/sunflowerIU/restaurant-backend)
+### [Nepali Kitchen / Restaurant App-Frontend](https://github.com/sunflowerIU/restaurant-frontend)
 A full-stack restaurant ordering application with authentication, authorization, payment integration, and admin/user features.
 
 Tech used: Next.js, TypeScript, Node.js, Express, MongoDB, JWT, OAuth, eSewa
@@ -22,10 +23,10 @@ A secure backend authentication API built with Node.js, Express, TypeScript, Mon
 
 **Tech used:** Node.js, Express.js, TypeScript, MongoDB, Mongoose, JWT, Cookies, Google OAuth, Nodemailer, Zod, 2FA/TOTP
 
-### Docker + Nginx Practice
+### [Docker + Nginx Practice(Reverse Proxy)](https://github.com/sunflowerIU/reverse-proxy-practice)
 A practice project showing reverse proxy, multiple services, and Docker Compose networking.
 
-### Kubernetes Local Practice
+### [Kubernetes Local Practice](https://github.com/sunflowerIU/kubernetes-local-practice)
 A local Kubernetes deployment practice project with deployment files, services, ingress, and TLS learning.
 
 ## Currently Learning
