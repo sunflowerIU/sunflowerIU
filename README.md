@@ -4,7 +4,7 @@ I'm a full-stack developer learning and building with Next.js, TypeScript, Node.
 
 ## Tech Stack
 
-- Frontend: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui
+- Frontend: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Tanstack form, Tanstack Query, Tanstack Router
 - Backend: Node.js, Express.js, MongoDB, Mongoose, JWT Authentication, OAuth
 - DevOps: Docker, Nginx reverse proxy, Kubernetes basics, AWS EC2/EKS practice
 - Tools: Git, GitHub, Postman, VS Code, intellij, apidog
