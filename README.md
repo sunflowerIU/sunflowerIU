@@ -14,7 +14,8 @@ I'm a full-stack developer learning and building with Next.js, TypeScript, Node.
 
 ### [Nepali Kitchen / Restaurant App-Backend](https://github.com/sunflowerIU/restaurant-backend)
 ### [Nepali Kitchen / Restaurant App-Frontend](https://github.com/sunflowerIU/restaurant-frontend)
-A full-stack restaurant ordering application with authentication, authorization, payment integration, and admin/user features.
+A full-stack restaurant ordering application with authentication, authorization, payment integration, and admin/user features. The idempotency model is used to prevent duplicate processing of the same request, especially during payment or order creation.
+
 
 Tech used: Next.js, TypeScript, Node.js, Express, MongoDB, JWT, OAuth, eSewa
 
