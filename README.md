@@ -29,6 +29,13 @@ A practice project showing reverse proxy, multiple services, and Docker Compose 
 ### [Kubernetes Local Practice](https://github.com/sunflowerIU/kubernetes-local-practice)
 A local Kubernetes deployment practice project with deployment files, services, ingress, and TLS learning.
 
+### [Real Estate Web Application](https://github.com/sunflowerIU/my-real-state-project)
+
+A full-stack real estate web application built with Node.js, Express, MongoDB, Mongoose, and Pug. It includes property listings, user authentication, JWT cookies, protected routes, image upload, image resizing, pagination, and password reset.
+
+**Tech used:** Node.js, Express.js, MongoDB, Mongoose, Pug, JWT, Cookies, Multer, Sharp, Nodemailer
+
+
 ## Currently Learning
 
 - Spring Boot
