@@ -12,6 +12,14 @@ I'm a full-stack developer learning and building with Next.js, TypeScript, Node.
 
 ## Featured Projects
 
+### [AI Simple RAG](https://github.com/sunflowerIU/ai-simple-rag)
+
+A Retrieval-Augmented Generation (RAG) application built from scratch. It processes PDF, Markdown, and text documents, generates embeddings, stores them in PostgreSQL using pgvector, and retrieves relevant document chunks using vector similarity search. The retrieved context is then provided to an LLM to generate grounded answers with source references.
+
+
+**Tech used:** TypeScript, Node.js, Fastify, PostgreSQL, pgvector, Groq, Zod, Docker
+
+
 ### [Nepali Kitchen / Restaurant App-Backend](https://github.com/sunflowerIU/restaurant-backend)
 ### [Nepali Kitchen / Restaurant App-Frontend](https://github.com/sunflowerIU/restaurant-frontend)
 A full-stack restaurant ordering application with authentication, authorization, payment integration, and admin/user features. The idempotency model is used to prevent duplicate processing of the same request, especially during payment or order creation.
