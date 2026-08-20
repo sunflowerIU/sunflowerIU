@@ -1,6 +1,6 @@
 # Hi, I'm Amit 👋
 
-I'm a full-stack developer learning and building with Next.js, React js, Tanstack Libraries, TypeScript, Node.js, Express, Fastify, PostgesSQL, MongoDB, Docker, Nginx, Kubernetes, and AWS.
+I'm a full-stack developer focused on TypeScript, Node.js, Next.js, and backend development, with hands-on experience building APIs, authentication systems, payment flows, Dockerized applications, and AI-powered applications.
 
 ## Tech Stack
 
