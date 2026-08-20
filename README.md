@@ -25,6 +25,12 @@ An AI-powered document extraction API that converts unstructured invoices and re
 
 **Tech used:** TypeScript, Node.js, Fastify, Groq, Vercel AI SDK, Zod, pdf-parse
 
+### [Node Thermal Print Agent](https://github.com/sunflowerIU/node-thermal-print-agent)
+
+A local Windows print agent for web-based ERP/POS systems that bridges browser applications with thermal printers. It supports Windows and network ESC/POS printing, printer configuration through a local dashboard, SQLite-backed settings, failed print-job handling and retries, Windows auto-start, and standalone EXE packaging.
+
+**Tech used:** Node.js, TypeScript, Express.js, SQLite, ESC/POS, Pug, Zod, esbuild, Windows
+
 
 ### [Nepali Kitchen / Restaurant App-Backend](https://github.com/sunflowerIU/restaurant-backend)
 ### [Nepali Kitchen / Restaurant App-Frontend](https://github.com/sunflowerIU/restaurant-frontend)
