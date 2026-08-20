@@ -19,6 +19,12 @@ A Retrieval-Augmented Generation (RAG) application built from scratch. It proces
 
 **Tech used:** TypeScript, Node.js, Fastify, PostgreSQL, pgvector, Groq, Zod, Docker
 
+### [AI Document Scanner — Invoice & Resume Extractor](https://github.com/sunflowerIU/ai-document-scanner-invoice-and-resume-)
+
+An AI-powered document extraction API that converts unstructured invoices and resumes into validated structured JSON. It supports PDF, TXT, and Markdown files, extracts document text, sends it to an LLM using Groq and the AI SDK, and validates the generated output using Zod schemas. The invoice workflow also includes deterministic business-rule checks to detect missing critical fields and flag documents that require human review.
+
+**Tech used:** TypeScript, Node.js, Fastify, Groq, Vercel AI SDK, Zod, pdf-parse
+
 
 ### [Nepali Kitchen / Restaurant App-Backend](https://github.com/sunflowerIU/restaurant-backend)
 ### [Nepali Kitchen / Restaurant App-Frontend](https://github.com/sunflowerIU/restaurant-frontend)
@@ -54,10 +60,7 @@ A modern e-commerce application built with Next.js, React, Supabase, NextAuth, Z
 
 
 
-## Currently Learning
 
-- Spring Boot
-- langchain js, langraph (ai integration)
 
 ## Contact
 
